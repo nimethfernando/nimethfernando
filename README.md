@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at https://nimethfernando.github.io/Personal-Portfolio-with-node/<br>💬 Ask me about, Blockchain NFT, Web Development<br>📫 How to reach me d.thishakya@gmail.com</p>
+<p align="left">👨‍💻 All of my projects are available at https://nimethfernando.github.io/Personal-Portfolio-with-node/<br> How to reach me nimeth42@gmail.com</p>
 
 ###
 <div align="left">
